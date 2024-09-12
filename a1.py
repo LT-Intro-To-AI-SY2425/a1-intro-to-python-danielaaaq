@@ -25,7 +25,8 @@ def absolute(n: int) -> int:
     Returns:
         the absolute value of the passed in number
     """
-    if(i<0):
+    return -1 * n if n<0 else n 
+    if (n<0):
         return n*-1
     else:
         return n
@@ -41,7 +42,7 @@ def factorial(n: int) -> int:
     Returns:
         factorial of the passed in number
     """
-    raise NotImplementedError("factorial")
+   )
 
 
 T = TypeVar("T")
@@ -71,8 +72,10 @@ def sum_list(lst: List[int]) -> int:
     Returns:
         the sum of the passed in list
     """
-    raise NotImplementedError("sum_list")
-
+    if n<0:
+        return -1 * n 
+    else:
+        return n 
 
 def mean(lst: List[int]) -> float:
     """Takes a list of numbers, and returns the mean of the numbers.
