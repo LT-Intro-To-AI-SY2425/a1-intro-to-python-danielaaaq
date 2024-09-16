@@ -13,6 +13,7 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
+My initial thoughts about the python programming language are that it's a little confusing from the fact that I've only used Java, meanwhile it does seem much easier in comparison just because of the fact that you can write codes in just one line rather than having to create a five line code. Overall, I think it's easier. 
 
 
 
