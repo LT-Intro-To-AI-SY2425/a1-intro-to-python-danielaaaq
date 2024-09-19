@@ -18,7 +18,8 @@ My initial thoughts about the python programming language are that it's a little
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-
+Some similarities I realized that python and jave both share are the loops but in python you can make them shorter which makes them easier. However some differences I did realize were that python is just way easier to both learn and understand without getting lost halfway.
 
 
 3. What are some things that you learned through this assignment?
+Some things I have learned through this assignment were basic python opperations and syntax
